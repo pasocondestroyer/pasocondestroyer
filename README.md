@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pasocondestroyer
-- 👀 I’m interested in sensor network, information fusion and objecting tracking.
+- 👀 I’m interested in sensor network, information fusion and object tracking.
 - 🌱 I’m currently learning something about information fusion. 
 - 💞️ I’m looking to collaborate on who has something to share with me.
 - 📫 How to reach me is to send me an email. My email is 616992352@qq.com.
